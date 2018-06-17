@@ -28,12 +28,18 @@ Indecisive friends, couples, and coworkers who are looking for a quick way to ge
 
 ### APIs and Web Service Requirements
 
-todo: describe which APIs or web services, if any, the system will use (see proposal instructions)
+Yelp Fusion API - Business Search 
+GET https://api.yelp.com/v3/businesses/search
+Source: https://www.yelp.com/developers/documentation/v3/business_search
 
 ### Python Package Requirements
 
-todo: describe which third-party python packages, if any, the system will use (see proposal instructions)
+This app will use a few python packages:
+- `urllib`
+- `requests`
+- `json`
+- `argparse`
 
 ### Hardware Requirements
 
-todo: describe hardware requirements, if any (see proposal instructions)
+I hope to deploy this app to a public server - AWS. Hardware requirement to be confirmed.
