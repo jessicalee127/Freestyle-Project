@@ -3,7 +3,7 @@
 ## Problem Statement
 
 ### Primary User
-Indecisive friends, couples, and coworkers who are looking for a quick way to get restaurant recommendations. The app will save users' time searching through vast amount of restaurant information.
+Indecisive individuals, friends, couples, and coworkers who are looking for a quick way to get restaurant recommendations. The app will save users' time searching through vast amount of restaurant information.
 
 ### User Needs Statement
 "As a group of individuals, we want to get restaurant recommendations simply and quickly. Searching through all the information and deciding on one restaurant requires some significant effort and usually leads to decision fatigue. Every time we plan to go out and dine, we want to save time at the restaurant planning part by having the app do the decision for us." 
