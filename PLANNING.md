@@ -39,7 +39,8 @@ This app will use a few python packages:
 - `requests`
 - `json`
 - `argparse`
+- `flaske`
 
 ### Hardware Requirements
 
-I hope to deploy this app to a public server - AWS. Hardware requirement to be confirmed.
+Planning to deploy this app to Heroku as a web app.
