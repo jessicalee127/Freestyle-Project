@@ -21,7 +21,7 @@ Indecisive individuals, friends, couples, and coworkers who are looking for a qu
 - Search criteria (e.g. cuision, price level, openning hours, etc.)
 
 ### Information Outputs
-- 1-3 restaurant recommendations
+- 1-3 restaurant recommendations and restaurant details
 
 
 ## Technology Requirements
@@ -30,6 +30,7 @@ Indecisive individuals, friends, couples, and coworkers who are looking for a qu
 
 Yelp Fusion API - Business Search 
 GET https://api.yelp.com/v3/businesses/search
+
 Source: https://www.yelp.com/developers/documentation/v3/business_search
 
 ### Python Package Requirements
@@ -39,7 +40,7 @@ This app will use a few python packages:
 - `requests`
 - `json`
 - `argparse`
-- `flaske`
+- `flask`
 
 ### Hardware Requirements
 
